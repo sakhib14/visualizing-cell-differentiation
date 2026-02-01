@@ -1,6 +1,6 @@
 # Project: Visualizing Cell Differentiation
 
-![alt text](waddington2.png)
+![alt text](./images/waddington2.png)
 
 The current project consists in using gene expression data to visualize the differentiation trajectories of mouse embryonic stem cells. The gene expression dataset considered here was published by *Patrick S. Stumpf et al.* in  a paper titled *"Stem Cell Differentiation as a Non-Markov Stochastic Process," Cell Systems, 2017.* 
 This is a guided project and all instructions can be found in the "cell_specification.ipynb" jupyter notebook. It is also expected that all written code reside in this file.
