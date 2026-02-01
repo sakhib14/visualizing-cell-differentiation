@@ -19,7 +19,8 @@ To submit your project, please follow these steps:
     Open the `cell_specification.ipynb` Jupyter notebook. Follow the instructions within the notebook and write your code directly in the cells provided.
 
 3.  **Rename and move the notebook**:
-    Rename the `cell_specification.ipynb` notebook to `cell_specification_your-name.ipynb` (e.g. cell_specification_joel-dokmegang.ipynb). **Move** this file to the "submissions" folder.
+    Rename the `cell_specification.ipynb` notebook to `cell_specification_your-name.ipynb` (e.g. cell_specification_joel-dokmegang.ipynb). 
+    **Move** this file to the "submissions" folder.
 
 4.  **Create a new branch**:
     Before committing your changes, create a new branch using your name (e.g., `your-name`):
