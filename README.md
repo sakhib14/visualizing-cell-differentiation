@@ -18,16 +18,19 @@ To submit your project, please follow these steps:
 2.  **Complete the tasks**:
     Open the `cell_specification.ipynb` Jupyter notebook. Follow the instructions within the notebook and write your code directly in the cells provided.
 
-3.  **Create a new branch**:
-    Before committing your changes, create a new branch using your name (e.g., `firstname-lastname`):
+3.  **Rename and move the notebook**:
+    Rename the `cell_specification.ipynb` notebook to `cell_specification_your-name.ipynb` (e.g. cell_specification_joel-dokmegang.ipynb). **Move** this file to the "submissions" folder.
+
+4.  **Create a new branch**:
+    Before committing your changes, create a new branch using your name (e.g., `your-name`):
     ```bash
     git checkout -b <your-name>
     ```
 
-4.  **Commit and push your changes**:
+5.  **Commit and push your changes**:
     Once you have finished the project, add and commit your changes:
     ```bash
-    git add cell_specification.ipynb
+    git add submissions/cell_specification_your-name.ipynb
     git commit -m "Completed cell differentiation project"
     ```
     Then, push your branch to the remote repository:
@@ -35,5 +38,5 @@ To submit your project, please follow these steps:
     git push origin <your-name>
     ```
 
-5.  **Submit a Pull Request**:
+6.  **Submit a Pull Request**:
     Go to the repository page on GitHub. You should see a prompt to create a Pull Request from your recently pushed branch. Click on it, review your changes, and submit the Pull Request for review.
