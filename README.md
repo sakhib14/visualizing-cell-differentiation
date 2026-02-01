@@ -40,4 +40,4 @@ To submit your project, please follow these steps:
     ```
 
 6.  **Submit a Pull Request**:
-    Go to the repository page on GitHub. You should see a prompt to create a Pull Request from your recently pushed branch. Click on it, review your changes, and submit the Pull Request for review.
+    After performing the last steps, follow the instructions on your terminal to create and submit a Pull Request.
